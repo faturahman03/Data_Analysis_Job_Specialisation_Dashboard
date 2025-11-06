@@ -69,7 +69,7 @@ The dataset covers Australia, Hong Kong, Singapore, Philippines, Malaysia, Indon
 
 ## 📊 Dashboard
 Final interactive dashboard visualization:  
-![Dashboard](Data_Analysis_Job_Specialisation_Dashboard/images/Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
