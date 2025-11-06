@@ -49,7 +49,7 @@ The dataset covers Australia, Hong Kong, Singapore, Philippines, Malaysia, Indon
 ![Box Plot](images/boxplot.png)
 - **Box Plot:** Australia stands out as an outlier with salaries far above the upper limit.
 <p align="center">
-  <img src="sp_hongkong.png" width="45%">
+  <img src="images/sp_hongkong.png" width="45%">
   <img src="images/sp_malay_philippines.png" width="45%">
 </p> 
 - **Scatter Plot:** A clear upward salary trend appears from **Junior → Lead → Senior**.  
