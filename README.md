@@ -24,7 +24,7 @@ It highlights how salaries vary across countries and how career levels influence
 
 ## 🗃️ Data Preparation
 Data was collected from a database using SQL.  
-Script file: `data_preparation_to_excel.sql` (available in the [Data_Analysis_Job_Specialisation_Dashboard](../Data_Analysis_Job_Specialisation_Dashboard) repository).
+Script file: `data_preparation_to_excel.sql` (available in the [Data_Analysis_Job_Specialisation_Dashboard](data_preparation_to_excel.sql) repository).
 
 ---
 
